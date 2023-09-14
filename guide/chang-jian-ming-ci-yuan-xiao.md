@@ -13,6 +13,8 @@
 | wl       | waiting list，递补名额。                         |
 | AP       | 助理教授，新入职的导师，通常有较高的学术水平，并因为非升即走等原因有较高的学术追求。 |
 
-院校排名的常见版本如下，同一水平的院校没有必要比较强弱，更多需要考虑导师与具体方向，另外，此处没有考虑具体的院系，不能盲目对学校进行比较：
+院校排名的常见版本如下，同一水平的院校没有必要比较强弱，更多需要考虑导师与具体方向，另外，此处没有考虑具体的院系，与HNU不同，大多数学校都有至少两个或以上的计算机相关学院，不同学院的水平可能存在差异：
 
-<figure><img src="../.gitbook/assets/计算机专业保研.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/计算机专业保研.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+本校较强的是SYS(系统)方向，特别是高性能计算(HPC)方向。
