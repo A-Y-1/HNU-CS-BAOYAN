@@ -11,3 +11,7 @@
 | oq       | over qualified，院校认为你的水平高于该院校，一定不会来，因此拒绝入营。 |
 | bar      | 入营门槛。                                      |
 | wl       | waiting list，递补名额。                         |
+
+院校排名的常见版本如下，同一水平的院校没有必要比较强弱，更多需要考虑导师与具体方向，另外，此处没有考虑具体的院系，不能盲目对学校进行比较：
+
+<figure><img src="../.gitbook/assets/计算机专业保研.jpeg" alt=""><figcaption></figcaption></figure>
