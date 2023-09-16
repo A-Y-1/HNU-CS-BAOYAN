@@ -17,5 +17,5 @@
 ## DOC
 
 * [文书准备](doc/wen-shu-zhun-bei.md)
-* [专业课基础题](doc/zhuan-ye-ke-ji-chu-ti.md)
+* [专业课问答](doc/zhuan-ye-ke-wen-da.md)
 * [英文问答](doc/ying-wen-wen-da.md)
