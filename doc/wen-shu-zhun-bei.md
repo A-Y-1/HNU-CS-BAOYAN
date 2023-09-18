@@ -1,6 +1,6 @@
 # 文书准备
 
-请跳转[https://zhuanlan.zhihu.com/p/615923570](https://zhuanlan.zhihu.com/p/615923570)\文书模版文件夹下。
+请跳转[https://zhuanlan.zhihu.com/p/615923570](https://zhuanlan.zhihu.com/p/615923570)在./other/文书模版文件夹下。
 
 除上述的文书外，要准备的材料还包括：
 
