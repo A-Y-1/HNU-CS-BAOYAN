@@ -1,6 +1,8 @@
 # 文书准备
 
-请跳转[https://zhuanlan.zhihu.com/p/615923570](https://zhuanlan.zhihu.com/p/615923570)在./other/文书模版文件夹下。
+请跳转[https://zhuanlan.zhihu.com/p/615923570](https://zhuanlan.zhihu.com/p/615923570)，模版在./other/文书文件夹下。
+
+上述文书中的个人陈述，如果是申请系统中提交的，可以尽量简化。仓库里没给鸽信模版，鸽信可以自己简单阐述原因+表达歉意，简明大方的写一下，模版导师可能已经见过太多次了。
 
 除上述的文书外，要准备的材料还包括：
 
