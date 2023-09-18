@@ -9,10 +9,9 @@
 * [常见名词|院校](guide/chang-jian-ming-ci-yuan-xiao.md)
 * [往届去向](guide/wang-jie-qu-xiang.md)
 
-## Universities
+## UNIVERSITIES
 
-* [院校导师及实验室](universities/yuan-xiao-dao-shi-ji-shi-yan-shi.md)
-* [院校考核](universities/yuan-xiao-kao-he.md)
+* [必读⭐](universities/bi-du.md)
 
 ## DOC
 

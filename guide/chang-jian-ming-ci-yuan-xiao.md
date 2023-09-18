@@ -17,4 +17,3 @@
 
 <figure><img src="../.gitbook/assets/计算机专业保研.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
-本校较强的是SYS(系统)方向，特别是高性能计算(HPC)方向。
