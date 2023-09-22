@@ -79,5 +79,7 @@ I want to apply to the University of Science and Technology of China because it 
 
 ### 10.阐述你对xxx的看法
 
+可以准备一小段关于自己项目、竞赛或科研方向的内容。
+
 ### 11.你希望未来的研究生导师是什么样的
 
