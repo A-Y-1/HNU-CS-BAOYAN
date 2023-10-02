@@ -26,5 +26,5 @@
 
 [2023计算机保研经历（清华软院、复旦CS、人大高瓴、南大CS等） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/573141762)
 
-2024末九边缘人的救赎(❗<mark style="color:red;">末九14%联系导师入营拿到清深offer</mark>)，该帖已被原作者删除，但情况属实。
+[2024末九边缘人的救赎](https://zhuanlan.zhihu.com/p/659003744?utm_id=0)(❗<mark style="color:red;">末九14%联系导师入营拿到清深生医工项目offer</mark>)
 
