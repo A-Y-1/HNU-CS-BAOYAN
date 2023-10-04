@@ -8,6 +8,7 @@
 * [常见问题⭐](guide/chang-jian-wen-ti.md)
 * [常见名词](guide/chang-jian-ming-ci.md)
 * [往届去向](guide/wang-jie-qu-xiang.md)
+* [部分研究领域](guide/research-filed.md)
 
 ## UNIVERSITIES
 
