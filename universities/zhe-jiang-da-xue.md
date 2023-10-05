@@ -18,7 +18,7 @@
 
 浙工是按照不同的项目招生的，2023年的项目如下：
 
-<img src="zhe-jiang-da-xue/zjus.jpg" style="zoom: 25%;" />
+<figure><img src="zhe-jiang-da-xue/zjus.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 浙工入营会看简历，非常看重科研与竞赛、项目。
 
@@ -39,6 +39,3 @@
 浙工：
 
 面试很常规，20min左右，PPT自我介绍+英语提问+专家提问。提问会围绕项目和简历来进行。去物联网面试的同学面了比较多的网络相关问题。
-
-
-
