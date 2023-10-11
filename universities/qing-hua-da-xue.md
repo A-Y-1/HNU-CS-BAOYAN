@@ -28,3 +28,4 @@
 
 [2024末九边缘人的救赎](https://zhuanlan.zhihu.com/p/659003744?utm_id=0)(❗<mark style="color:red;">末九14%联系导师入营拿到清深生医工项目offer</mark>)
 
+[2024保研-清深AI](https://www.zhihu.com/people/ice-80-5-50)

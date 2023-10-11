@@ -2,7 +2,7 @@
 
 各个方向的全部会议和期刊目录及相应评级见other文件夹下的中国计算机学会推荐国际学术会议和期刊目录-2022.pdf。
 
-以下研究方向的划分参考[CSRankings](https://csrankings.org/#/index?all&cn)和中国计算机学会的分类。细分的领域和方向更多。
+以下研究方向的划分参考[CSRankings](https://csrankings.org/#/index?all&cn)和中国计算机学会的分类。细分的领域和方向更多，并存在交叉。
 
 ### 一.人工智能
 
