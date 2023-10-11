@@ -1,6 +1,6 @@
 # 南京大学
 
-### 一.院系
+一.院系
 
 南大所有院均为极强COM，导师在入营和考核时无话语权。但可申请多个院系，最终只能确认参营一个。
 
@@ -30,7 +30,7 @@
 
 同样有笔试和机试，笔试与计算机学院的区别是操作系统等内容改为机器学习相关内容。机试为数据结构和机器学习算法。
 
-[**智能科学与技术学院(苏州)**](https://njusz.nju.edu.cn/_s753/33/0c/c52363a602892/page.psp)
+[**智能科学与技术学院(苏州)**](https://njusz.nju.edu.cn/\_s753/33/0c/c52363a602892/page.psp)
 
 ⚠仅招收专业：085410 人工智能
 
@@ -60,7 +60,7 @@
 
 **计算机学院/人工智能学院**
 
-<figure><img src="../.gitbook/assets/NJUcslab.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/NJUcslab.jpg" alt=""><figcaption></figcaption></figure>
 
 **软件学院**
 
