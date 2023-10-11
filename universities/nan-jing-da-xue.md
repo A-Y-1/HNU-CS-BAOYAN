@@ -60,7 +60,7 @@
 
 **计算机学院/人工智能学院**
 
-<figure><img src="../.gitbook/assets/NJUcslab.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/NJUcslab.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 **软件学院**
 
