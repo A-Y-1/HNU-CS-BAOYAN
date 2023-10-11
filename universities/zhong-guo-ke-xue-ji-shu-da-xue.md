@@ -4,6 +4,8 @@
 
 弱COM，可通过联系导师入营。与导师确认双选为最终录取条件。
 
+⚠中科大计算机学院只有夏令营，无预推免。其他学院是否有预推免是根据夏令营的招生情况。
+
 中国科学技术大学的学专培养方案相同，并且学专都提供宿舍，学费相同。
 
 考核与导师与实验室有关，部分实验室会有机考，平台为[CODIA](https://code.bdaa.pro/dashboard/)，平台有往年的机试题。
@@ -14,7 +16,7 @@
 
 需要通过学院的考核+导师的双选确认拿到offer。学院的考核比较简单。
 
-**[大数据学院](http://sds.ustc.edu.cn/main.htm)**
+[**大数据学院**](http://sds.ustc.edu.cn/main.htm)
 
 优营比较少，有机考。
 
@@ -36,7 +38,7 @@
 
 **大数据分析与应用实验室(BDAA)**
 
-主页：http://bigdata.ustc.edu.cn/class_3/lab-category.html
+主页：http://bigdata.ustc.edu.cn/class\_3/lab-category.html
 
 主要研究方向是数据挖掘，推荐系统等。比较热门的是刘淇，连德富等年轻导师。
 
@@ -44,7 +46,7 @@
 
 **数据科学实验室(LDS LAB)**
 
-主页：http://data-science.ustc.edu.cn/_upload/tpl/12/bc/4796/template4796/index.html
+主页：http://data-science.ustc.edu.cn/\_upload/tpl/12/bc/4796/template4796/index.html
 
 负责人为何向南教授，主页为：https://hexiangnan.github.io/
 
@@ -76,13 +78,13 @@
 
 负责人为安虹老师，实验室分为两个大组，HPC组和科大各学院，超算中心，华为等合作，主要为HPC的应用；AI组做医疗影像及大模型在医疗影像的应用，AI算子优化等。
 
----
+***
 
 ⚠以下是规模小，或交叉、理论领域的一些实验室。
 
 **泛在无源物联网实验室**
 
-主页：http://staff.ustc.edu.cn/~weigong/
+主页：http://staff.ustc.edu.cn/\~weigong/
 
 **精密普适实验室**
 
@@ -92,11 +94,11 @@
 
 丁虎导师主页(计算几何及应用等)：https://hu-ding.github.io/research.html
 
-陈雪导师主页(大数据算法，随机算法)：http://staff.ustc.edu.cn/~xuechen1989/
+陈雪导师主页(大数据算法，随机算法)：http://staff.ustc.edu.cn/\~xuechen1989/
 
-彭攀导师主页(理论计算机科学，图算法)：http://staff.ustc.edu.cn/~ppeng/
+彭攀导师主页(理论计算机科学，图算法)：http://staff.ustc.edu.cn/\~ppeng/
 
-邵帅导师主页(理论计算机科学)：http://staff.ustc.edu.cn/~wwwucuc/
+邵帅导师主页(理论计算机科学)：http://staff.ustc.edu.cn/\~wwwucuc/
 
 **安徽应用数学中心**
 
@@ -111,8 +113,3 @@
 蛋白质设计实验室主页：http://biocomp.ustc.edu.cn/
 
 免疫基因组学与精准医学实验室：http://qulab.ustc.edu.cn/
-
-
-
-
-
