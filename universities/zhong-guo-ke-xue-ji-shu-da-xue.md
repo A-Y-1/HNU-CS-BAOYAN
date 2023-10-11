@@ -14,7 +14,7 @@
 
 需要通过学院的考核+导师的双选确认拿到offer。学院的考核比较简单。
 
-[大数据学院](http://sds.ustc.edu.cn/main.htm)
+**[大数据学院](http://sds.ustc.edu.cn/main.htm)**
 
 优营比较少，有机考。
 
