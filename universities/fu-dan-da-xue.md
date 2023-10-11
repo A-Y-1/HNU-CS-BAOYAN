@@ -16,11 +16,11 @@
 
 研究方向的选择是入营后统一一段时间进行，为动态博弈。2023年的(夏令营)最终结果如下：
 
-<figure><img src="../.gitbook/assets/fdusummercamp.jpg" alt="" width=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fdusummercamp.jpg" alt=""><figcaption></figcaption></figure>
 
 各个学科方向的导师见：https://cs.fudan.edu.cn/24781/list.htm。
 
-考核内容包括机试，面试。2023年机试记分，比往年简单。
+考核内容包括机试，面试。2023年机试记入最终成绩，比往年简单。
 
 [**大数据学院**](https://sds.fudan.edu.cn/)
 
@@ -31,4 +31,3 @@
 [2021复旦大学计算机科学技术学院保研](http://t.csdnimg.cn/3dWT8)
 
 [2022年末二选手的计算机保研经验贴（浙大、复旦、南大、北航、人大信息等） - Sherlock.Novitch的文章](https://zhuanlan.zhihu.com/p/631063637)
-
