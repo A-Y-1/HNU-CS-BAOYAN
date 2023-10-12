@@ -6,7 +6,7 @@ prod.by@[Y(橙)](https://github.com/A-Y-1)。
 
 除了部分pdf资料和文书模版外，其他内容都可以跳转[HNU-CS-BAOYAN](https://y-s-organization.gitbook.io/hnu-cs-baoyan/)阅读，或clone下来通过summary.md导航阅读。文书模版和pdf资料在repo的/other文件夹下。
 
-夏令营的实时通知和开奖信息请前往[CS-BAOYAN (github.com)](https://github.com/CS-BAOYAN)。
+夏令营的实时通知和开奖信息请前往[CS-BAOYAN (github.com)](https://github.com/CS-BAOYAN)(绿群)，绿群仓库提供了非常多的资料，群内也提供了很多信息。
 
 任何问题可以直接联系我或ISSUE。
 
