@@ -8,7 +8,6 @@ prod.by@[Y(橙)](https://github.com/A-Y-1)。
 
 夏令营的实时通知和开奖信息请前往[CS-BAOYAN (github.com)](https://github.com/CS-BAOYAN)。
 
-任何问题可以直接联系我或留言(【腾讯文档】留言
-https://docs.qq.com/sheet/DU3FleURDYWVHWUd4?tab=BB08J2)。
+任何问题可以直接联系我或ISSUE。
 
 **本repo中的信息和内容不保证完全真实准确，对具体内容不承担各项责任，请自行辨别。无法确认的信息会注明。**
