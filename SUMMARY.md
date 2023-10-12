@@ -20,12 +20,10 @@
 * [中国科学技术大学](universities/zhong-guo-ke-xue-ji-shu-da-xue.md)
 * [复旦大学](universities/fu-dan-da-xue.md)
 * [中国人民大学](universities/zhong-guo-ren-min-da-xue.md)
+* [中国科学院大学](universities/zhong-guo-ke-xue-yuan-da-xue.md)
 * [武汉大学](universities/wu-han-da-xue.md)
 * [华中科技大学](universities/hua-zhong-ke-ji-da-xue.md)
 * [中山大学](universities/zhong-shan-da-xue.md)
-* [北京航空航天大学](universities/bei-jing-hang-kong-hang-tian-da-xue.md)
-* [中国科学院大学](universities/zhong-guo-ke-xue-yuan-da-xue.md)
-* [西安交通大学](universities/xi-an-jiao-tong-da-xue.md)
 * [其他](universities/qi-ta.md)
 
 ## DOC
