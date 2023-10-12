@@ -6,6 +6,8 @@
 
 ⚠中科大计算机学院只有夏令营，无预推免。其他学院是否有预推免是根据夏令营的招生情况。
 
+中科大做CV，NLP的导师在信息院较多。
+
 中国科学技术大学的学专培养方案相同，并且学专都提供宿舍，学费相同。
 
 考核与导师与实验室有关，部分实验室会有机考，平台为[CODIA](https://code.bdaa.pro/dashboard/)，平台有往年的机试题。
@@ -22,7 +24,7 @@
 
 [**信息科学技术学院**](https://sist.ustc.edu.cn/main.htm)
 
-同样需要联系导师。包含[6系(电子工程与信息科学系)](https://eeis.ustc.edu.cn/main.htm)和[10系(自动化系)](https://auto.ustc.edu.cn/main.htm)。两系有一些做机器学习，模式识别，计算机视觉相关研究的导师。
+同样需要联系导师。包含[6系(电子工程与信息科学系)](https://eeis.ustc.edu.cn/main.htm)和[10系(自动化系)](https://auto.ustc.edu.cn/main.htm)。两系主要是做机器学习，模式识别，计算机视觉相关研究的导师。
 
 [**先进技术研究院**](https://iat.ustc.edu.cn/iat/x228/)
 

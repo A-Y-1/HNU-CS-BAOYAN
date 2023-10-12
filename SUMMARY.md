@@ -13,6 +13,7 @@
 ## UNIVERSITIES
 
 * [必读⭐](universities/bi-du.md)
+* [中国科学院大学](universities/zhong-guo-ke-xue-yuan-da-xue.md)
 * [清华大学](universities/qing-hua-da-xue.md)
 * [北京大学](universities/bei-jing-da-xue.md)
 * [浙江大学](universities/zhe-jiang-da-xue.md)
@@ -20,7 +21,6 @@
 * [中国科学技术大学](universities/zhong-guo-ke-xue-ji-shu-da-xue.md)
 * [复旦大学](universities/fu-dan-da-xue.md)
 * [中国人民大学](universities/zhong-guo-ren-min-da-xue.md)
-* [中国科学院大学](universities/zhong-guo-ke-xue-yuan-da-xue.md)
 * [武汉大学](universities/wu-han-da-xue.md)
 * [华中科技大学](universities/hua-zhong-ke-ji-da-xue.md)
 * [中山大学](universities/zhong-shan-da-xue.md)
